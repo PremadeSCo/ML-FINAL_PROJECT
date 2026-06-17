@@ -1,3 +1,5 @@
+NOTE: this repo does not contain the used datasets, becuase combined size of datasets is >5GB and it will take more than a day on out internet. Same with the fused dataset
+
 # Intelligent Threat Detection System
 
 An advanced machine learning-based threat detection system using YOLOv8 object detection to identify and classify military and airborne objects in images and live video streams.
