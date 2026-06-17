@@ -1,4 +1,4 @@
-NOTE: this repo does not contain the used datasets, becuase combined size of datasets is >5GB and it will take more than a day on out internet. Same with the fused dataset
+**NOTE:** this repo does not contain the used datasets, becuase combined size of datasets is >5GB and it will take the entire day on our internet to upload it. (same with the fused dataset)
 
 # Intelligent Threat Detection System
 
