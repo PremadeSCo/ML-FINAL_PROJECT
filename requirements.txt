@@ -1,0 +1,10 @@
+flask
+opencv-python
+numpy
+matplotlib
+scikit-learn
+torch
+torchvision
+ultralytics
+onnx
+onnxruntime

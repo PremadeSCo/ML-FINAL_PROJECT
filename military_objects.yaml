@@ -1,0 +1,7 @@
+
+path: fused_dataset
+train: images/train
+val: images/val
+
+nc: 7
+names: ['Airplane', 'Helicopter', 'Drone', 'Bird', 'Tank', 'Person', 'Soldier']
